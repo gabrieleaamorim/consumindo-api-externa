@@ -1,4 +1,6 @@
-# consumindo-api-externa
+#Consumindo uma API externa
 Dia 01 do Desafio de 7 dias codando em Java com o Alura. 
 
-No primeiro dia do desafio tínhamos que implementar um código em java que consumisse uma API externa, a API utilizada foi a "https://imdb-api.com/", um catálogo de filmes e séries, o desafio foi que a api retornasse um Json com os 250 top filmes.
+No primeiro dia do desafio tínhamos que implementar um código em java que consumisse uma API externa, a API utilizada foi a "https://imdb-api.com/", um catálogo de filmes, o objetivo é o retorno em Json com os 250 top filmes.
+
+Você precisará criar sua conta no site indicado acima e copiar o Api Key criada que estará na aba de "Perfil".
