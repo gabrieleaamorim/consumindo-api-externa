@@ -6,7 +6,7 @@ Dia 01 do Desafio de 7 dias codando em Java com o Alura.
 | -------------  | --- |
 | :sparkles: Nome        | **Consumo de API externa**
 | :label: Tecnologias | java (tecnologias utilizadas)
-| :rocket: URL         | [https://url-deploy.com.br](https://github.com/gabrieleaamorim/consumindo-api-externa)
+| :rocket: URL         | [[https://url-deploy.com.br](https://github.com/gabrieleaamorim/consumindo-api-externa)](https://github.com/gabrieleaamorim/consumindo-api-externa/tree/main)
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
